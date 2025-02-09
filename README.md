@@ -1,6 +1,6 @@
 # Actividad HDFS hadoop
 
-## 1. Inicializar el cluster\n
+## 1. Inicializar el cluster
 ```
 cd hadoop
 sudo ./start-container.sh
